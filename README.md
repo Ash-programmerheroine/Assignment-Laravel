@@ -1,2 +1,2 @@
 # Assignment-Laravel
-![Laravel project running screenshot](C:\xampp\htdocs\Assignment-Laravel\img-ss\server-run-Screenshot.png)
+![Laravel project running screenshot](https://github.com/server-run-Screenshot.png)
